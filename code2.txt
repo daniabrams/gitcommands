@@ -3,3 +3,8 @@ is
 for
 my 
 success
+
+
+
+
+git log --all --graph
